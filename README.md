@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Abu Sayed Saimum</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Full-stack developer who enjoys solving real-world problems.
+React, Node.js, SQL/NoSQL, REST APIs.
+Always learning, always building.</h3>
 
 - 🔭 I’m currently working on **React**
 
